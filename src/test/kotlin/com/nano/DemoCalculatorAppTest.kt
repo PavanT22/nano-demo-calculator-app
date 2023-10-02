@@ -10,6 +10,7 @@ class DemoCalculatorAppTest {
 
     @Inject
     lateinit var application: EmbeddedApplication<*>
+    hello
 
     @Test
     fun testItWorks() {
